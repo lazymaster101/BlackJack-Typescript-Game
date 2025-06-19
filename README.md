@@ -23,7 +23,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]]
 
 This is a simple terminal-based game I made to learn Typescript. I used the following concepts in my game: enums, classes & OOP, type-checking, importing/exporting classes, and user prompting
 
