@@ -25,10 +25,22 @@
 
 [![Product Name Screen Shot][product-screenshot]]
 
-This is a simple terminal-based game I made to learn Typescript. I used the following concepts in my game: enums, classes & OOP, type-checking, importing/exporting classes, and user prompting
+This is a simple terminal-based game I made to learn Typescript. 
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## 💻 TypeScript Concepts Covered
+
+Here are some of the key TypeScript concepts used in this project:
+
+- 🔢 **Enums** – For defining constant sets of named values.
+- 🏗️ **Classes & OOP** – Inheritance, and method definition.
+- 🔍 **Type-checking** – Static analysis with TypeScript's powerful type system.
+- 🔄 **Importing/Exporting Classes** – Modularizing and reusing code efficiently.
+- 🧑‍💻 **User Prompting** – Interacting with users via terminal inputs through PromptSync
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ### Built With
@@ -36,6 +48,37 @@ This is a simple terminal-based game I made to learn Typescript. I used the foll
 * [![TypeScript][TypeScript.js]][TypeScript-url]
 * [![Node.js][Node.js]][Node-url]
 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+
+* Node.js: You would need node.js already installed on your computer 
+
+
+### Installation
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/lazymaster101/BlackJack-TypeScript-Game.git
+   ```
+2. Install NPM packages
+   ```sh
+   npm install
+   ```
+3. Compile the code by typing the following command in the root directory of the project
+   ```sh
+   tsc
+   ```
+5. Run the game by typing the following command
+   ```sh
+   node app.js
+   ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
