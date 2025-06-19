@@ -67,15 +67,11 @@ To get a local copy up and running follow these simple example steps.
    ```sh
    git clone https://github.com/lazymaster101/BlackJack-TypeScript-Game.git
    ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
-3. Compile the code by typing the following command in the root directory of the project
+2. Compile the code by typing the following command in the root directory of the project
    ```sh
    tsc
    ```
-5. Run the game by typing the following command
+3. Run the game by typing the following command
    ```sh
    node app.js
    ```
